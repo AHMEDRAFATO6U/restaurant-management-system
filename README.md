@@ -5,7 +5,7 @@ A comprehensive **Restaurant Management System** built with **Java Spring Boot**
 ## 🚀 Tech Stack
 - **Backend:** Java, Spring Boot, Spring Data JPA, Spring Security
 - **Authentication:** JWT (JSON Web Tokens)
-- **Database:** MySQL / PostgreSQL
+- **Database:** MySQL 
 - **Build Tool:** Maven
 - **Version Control:** Git & GitHub
 
